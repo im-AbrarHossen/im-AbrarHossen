@@ -16,6 +16,5 @@ Skills: C / C++ / Java / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-AbrarHossen)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=im-AbrarHossen&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/im-AbrarHossen)  
+ 
 
