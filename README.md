@@ -5,7 +5,7 @@
 
 I am a student. And I am studying in CSE Department.
 
-Skills: C / C++ / Java / HTML / CSS
+Skills: C / C++ / Java / HTML / CSS / JavaScript
 
 - 🌱 I’m currently learning CSS 
 - 👯 I’m looking to collaborate on GitHub 
