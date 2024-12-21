@@ -1,4 +1,4 @@
-![Junior Programmer](https://media.licdn.com/dms/image/D4D16AQF7CebLajYRZA/profile-displaybackgroundimage-shrink_350_1400/0/1719419051210?e=1726704000&v=beta&t=8Hobiis0qfNMQS54a9cyYI3hNxNygdGv0IPcz1KHPNQ)
+![Junior Programmer](https://media.licdn.com/dms/image/v2/D4D16AQF7CebLajYRZA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719419051210?e=2147483647&v=beta&t=Zb55F6h6tETHBZthUL4YhIio8vH94Kb4m1cOexqHHhc)
 
 ### Hi there 👋, I'm Abrar Hossen
 #### Junior Programmer
