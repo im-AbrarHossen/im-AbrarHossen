@@ -1,7 +1,7 @@
-![Front-End Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQF7CebLajYRZA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719419051210?e=2147483647&v=beta&t=Zb55F6h6tETHBZthUL4YhIio8vH94Kb4m1cOexqHHhc)
+![Web Developer](https://media.licdn.com/dms/image/v2/D4D16AQF7CebLajYRZA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1719419051210?e=2147483647&v=beta&t=Zb55F6h6tETHBZthUL4YhIio8vH94Kb4m1cOexqHHhc)
 
 ### Hi there 👋, I'm Abrar Hossen
-#### Front-End Web Developer
+#### Web Developer
 
 I am a student. And I am studying in CSE Department.
 
