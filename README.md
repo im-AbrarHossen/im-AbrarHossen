@@ -2,8 +2,7 @@
 
 <h1 align="center">Hello World!, I'm Abrar, a MERN Stack Developer👋</h1>
 <div align="center">
- 
-🔭 I’m currently working on a Task Management Web Application using MERN stack.<br>👯 I’m looking to collaborate on open source full stack projects.<br>🤝 I’m looking for help with backend optimization and real-time database syncing.<br>🌱 I’m currently learning Full Stack Web Development.<br>💬 Ask me about JavaScript, React, or Tailwind CSS.<br>⚡ Fun fact I can turn coffee into code at 2 AM!
+🔭 I’m currently studies in CSE at East West University.<br>💬 Ask me about JavaScript, React, or Tailwind CSS.<br>⚡ Fun fact I can turn coffee into code at 2 AM!
 </div>
 
 <h2 align="center">💻 Tech Stack</h2>
