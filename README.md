@@ -1,14 +1,11 @@
-<h2 align="center">💫 About Me</h2>
+<img src="https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/481075896_1191517522531896_9065211383478235930_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHSFjL1wtTiyAr4PntrsvrdVuA4JPOrgEhW4Dgk86uASE0sQEvzsD3W5pjgOhFNlKsB6blgaZUVynFMlrs6Yam-&_nc_ohc=WcZlTHVGe5QQ7kNvwFpQHEj&_nc_oc=AdmMzL6X_ZXwlZVB65JzwPOM2RVtGho_x1XSy6T_pLnAN9_mv5ZX_M71e__bxfHueqc&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=mUYfeQ3eS_52eRPYMjshjg&oh=00_AfFUEkS_H3QNi0adhWASdZyJc0bwnIIbcW3EJ6I8W9E8EA&oe=68185D2B" alt="My Image" width="100%" height="200px" />
+
+<h1 align="center">Hello World!, I'm Abrar, a MERN Stack Developer👋</h1>
 <div align="center">
  
 🔭 I’m currently working on a Task Management Web Application using MERN stack.<br>👯 I’m looking to collaborate on open source full stack projects.<br>🤝 I’m looking for help with backend optimization and real-time database syncing.<br>🌱 I’m currently learning Full Stack Web Development.<br>💬 Ask me about JavaScript, React, or Tailwind CSS.<br>⚡ Fun fact I can turn coffee into code at 2 AM!
 </div>
 
-<h2 align="center">🌐 Socials</h2>
-<div align="center">
- 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abrarhossen273) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whose_abrar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/im-abrarhossen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ASAThreeIdiots) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abrarhossen93@gmail.com) 
-</div>
 <h2 align="center">💻 Tech Stack</h2>
 <div align="center">
  
@@ -41,5 +38,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=im-abrarhossen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=im-abrarhossen&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h2 align="center">🌐 Get in touch</h2>
+<div align="center">
+ 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abrarhossen273) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whose_abrar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/im-abrarhossen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ASAThreeIdiots) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abrarhossen93@gmail.com) 
+</div>
