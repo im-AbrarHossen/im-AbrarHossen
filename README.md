@@ -1,4 +1,4 @@
-<img src="https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/481075896_1191517522531896_9065211383478235930_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHSFjL1wtTiyAr4PntrsvrdVuA4JPOrgEhW4Dgk86uASE0sQEvzsD3W5pjgOhFNlKsB6blgaZUVynFMlrs6Yam-&_nc_ohc=WcZlTHVGe5QQ7kNvwFpQHEj&_nc_oc=AdmMzL6X_ZXwlZVB65JzwPOM2RVtGho_x1XSy6T_pLnAN9_mv5ZX_M71e__bxfHueqc&_nc_zt=23&_nc_ht=scontent.fdac152-1.fna&_nc_gid=mUYfeQ3eS_52eRPYMjshjg&oh=00_AfFUEkS_H3QNi0adhWASdZyJc0bwnIIbcW3EJ6I8W9E8EA&oe=68185D2B" alt="My Image" width="100%" height="200px" />
+<img src="https://drive.google.com/uc?export=view&id=1BkqUhq9f7ptTJd2lZuW39NoOjtF04oeh" alt="My Image" width="100%" />
 
 <h1 align="center">Hello World!, I'm Abrar, a MERN Stack Developer👋</h1>
 <div align="center">
