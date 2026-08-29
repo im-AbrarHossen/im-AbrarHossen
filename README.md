@@ -12,18 +12,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
+## 📌 About Me
+🔭 I’m currently studying CSE at East West University
+💬 Ask me about JavaScript, React, or Tailwind CSS
+⚡ Fun fact: I can turn coffee into code at 2 AM
 
-<h2 align="center">📌 About Me</h2>
-<p align="center">🔭 I’m currently studying CSE at East West University</p>
-<p align="center">💬 Ask me about JavaScript, React, or Tailwind CSS</p>
-<p align="center">⚡ Fun fact: I can turn coffee into code at 2 AM</p>
 
-
-<h2 align="center">🧠 My Focus Areas</h2>
-<p align="center">🌐 Web Development</p>
-<p align="center">🤖 Artificial Intelligence & Machine Learning</p>
-<p align="center">🌍 Open-Source Contribution</p>
-
+## 🧠 My Focus Areas
+🌐 Web Development
+🤖 Artificial Intelligence & Machine Learning
+🌍 Open-Source Contribution
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
