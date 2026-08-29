@@ -13,15 +13,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-🔭 I’m currently studying CSE at East West University
-💬 Ask me about JavaScript, React, or Tailwind CSS
-⚡ Fun fact: I can turn coffee into code at 2 AM
+<div>
+🔭 I’m currently studying CSE at East West University<br>💬 Ask me about JavaScript, React, or Tailwind CSS<br>⚡ Fun fact: I can turn coffee into code at 2 AM
+</div>
 
 
 ## 🧠 My Focus Areas
-🌐 Web Development
-🤖 Artificial Intelligence & Machine Learning
-🌍 Open-Source Contribution
+<div>
+🌐 Web Development<br>🤖 Artificial Intelligence & Machine Learning<br>🌍 Open-Source Contribution
+</div>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
